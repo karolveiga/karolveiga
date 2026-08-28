@@ -1,16 +1,49 @@
-## Hi there 👋
+## hey, i'm Karol! 🍒
 
-<!--
-**karolveiga/karolveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems student @ UTFPR
+💻 aspiring software developer
+🧠 curious about technology, ideas & how things work
 
-Here are some ideas to get you started:
+˚₊‧ ─────────────── ‧₊˚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☾ about me
+
+I'm currently studying Information Systems and using GitHub to document my learning journey, experiment with new technologies, and turn curiosity into projects.
+
+I like understanding how things work — and finding out what else they can do.
+
+˚₊‧ ─────────────── ‧₊˚
+
+✦ tech
+
+Languages
+Python · C · C++
+
+Tools
+Git · GitHub
+
+˚₊‧ ─────────────── ‧₊˚
+
+🔮 currently learning
+
+→ Data Structures & Algorithms
+→ Software Development
+→ New technologies & programming concepts
+
+˚₊‧ ─────────────── ‧₊˚
+
+✦ things I'm building
+
+🍒 tarot-inspired productivity app
+A personal project exploring a different way of organizing tasks through tarot, symbolism, and intention.
+
+☾ mystical game
+A game exploring the mystical, symbolic, and unpredictable side of storytelling and interaction.
+
+˚₊‧ ─────────────── ‧₊˚
+
+☾ little things I like
+
+tarot · music · coding · learning · ✦
+
+<br>I like turning curiosity into code. ♡ 
